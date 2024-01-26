@@ -9,3 +9,4 @@ https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP-EYE_Get
 ## Exercise 2: EXP-EYE conducts facial-recongnition with AWS Cloud
 ### Esprissif ESP-EYE + Amazon FreeRTOS
  - https://github.com/aws/amazon-freertos/blob/main/vendors/espressif/docs/ESP-EYE_getting_started_with_AFR.md
+ - Because the IAM service extremely limited in AWS Academy account, 
