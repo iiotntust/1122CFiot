@@ -8,5 +8,6 @@ https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP-EYE_Get
 - Project and source code: https://how2electronics.com/connecting-esp32-to-amazon-aws-iot-core-using-mqtt/
 ## Exercise 2: EXP-EYE conducts facial-recongnition with AWS Cloud
 ### Esprissif ESP-EYE + Amazon FreeRTOS
- - https://github.com/aws/amazon-freertos/blob/main/vendors/espressif/docs/ESP-EYE_getting_started_with_AFR.md
+ - (Stop update) https://github.com/aws/amazon-freertos/blob/main/vendors/espressif/docs/ESP-EYE_getting_started_with_AFR.md
+ - AWS document: https://docs.aws.amazon.com/freertos/latest/userguide/freertos-getting-started-modular.html 
  - Because the IAM service extremely limited in AWS Academy account, 
