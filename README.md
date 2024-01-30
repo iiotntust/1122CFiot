@@ -1,5 +1,4 @@
 # 1122CFiot
-:shipit:
 This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Facial recognition**. The first exercise familiarizes students with IoT and AWS IoT platforms; the second experiences artificial intelligence with facial recognition.
 ## :+1:Exercise 1: Connect IoT to AWS Cloud
 ### Getting Started with Amazon AWS IoT Core using ESP32 
@@ -12,7 +11,7 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
  - (Stop update) https://github.com/aws/amazon-freertos/blob/main/vendors/espressif/docs/ESP-EYE_getting_started_with_AFR.md
  - The IAM service has limited condition use in the AWS Academy account.
 > [!Note]
-> References for conducting the exercises.
+> 🧱 References for conducting the exercises.
 - Arduino IDE download: https://www.arduino.cc/en/software
 - Esprissif ESP32 and Ardunio: https://github.com/espressif/arduino-esp32
 - Hardware information
