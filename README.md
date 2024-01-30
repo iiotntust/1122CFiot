@@ -1,5 +1,5 @@
 # 1122CFiot
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:+1::shipit:
 This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Facial recognition**. The first exercise familiarizes students with IoT and AWS IoT platforms; the second experiences artificial intelligence with facial recognition.
 ## Exercise 1: Connect IoT to AWS Cloud
 ### Getting Started with Amazon AWS IoT Core using ESP32 
