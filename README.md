@@ -14,4 +14,7 @@ This class has two hands-on exercises: 1. Connect IoT to AWS Cloud. 2. Facial re
 > [!Note]
 > Helpful information for conducting the exercises.
 - Arduino IDE download: https://www.arduino.cc/en/software
-- Esprissif ESP32 and Ardunio: https://github.com/espressif/arduino-esp32 
+- Esprissif ESP32 and Ardunio: https://github.com/espressif/arduino-esp32
+- Hardware information
+  - NodeMCU-32S board: https://docs.ai-thinker.com/en/esp32/boards/nodemcu_32s
+  - DFR0620 ESP-EYE Development board: https://www.dfrobot.com/product-1931.html
