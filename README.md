@@ -1,5 +1,5 @@
 # 1122CFiot
-This class has two hands-on exercises: 1. Connect IoT to AWS Cloud. 2. Facial recognition. The first exercise familiarizes students with IoT and AWS IoT platforms; the second experiences artificial intelligence with facial recognition.
+This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Facial recognition**. The first exercise familiarizes students with IoT and AWS IoT platforms; the second experiences artificial intelligence with facial recognition.
 ## Exercise 1: Connect IoT to AWS Cloud
 ### Getting Started with Amazon AWS IoT Core using ESP32 
 - Hardware: ESP32-2, DHT-11 (Humi-Temp sensor)
