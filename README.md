@@ -19,4 +19,4 @@ This class has two hands-on exercises: 1. Connect IoT to AWS Cloud. 2. Facial re
   - DFR0620 ESP-EYE Development board: https://www.dfrobot.com/product-1931.html
   - ESP-EYE v2.1: https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP-EYE_Getting_Started_Guide.md
   - Free RTOS (Real-time operating system for microcontrollers):[https://freertos.org/index.html](https://freertos.org/index.html)
-  - ESP32-DHT-11 module pinout: https://esp32io.com/tutorials/esp32-dht11 ![image](https://github.com/iiotntust/1122CFiot/assets/56021651/abf17f8d-7358-4654-82f8-9be98f667a48)
+  - ESP32-DHT-11 module pinout: https://esp32io.com/tutorials/esp32-dht11 ![ESP32_DHT-11](https://github.com/iiotntust/1122CFiot/assets/56021651/8e5a4641-ada0-4916-9455-5db77e155f42)
