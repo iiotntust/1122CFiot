@@ -11,6 +11,7 @@ This class has two hands-on exercises: 1. Connect IoT to AWS Cloud. 2. Facial re
  - (Stop update) https://github.com/aws/amazon-freertos/blob/main/vendors/espressif/docs/ESP-EYE_getting_started_with_AFR.md
  - AWS document: https://docs.aws.amazon.com/freertos/latest/userguide/freertos-getting-started-modular.html 
  - The IAM service has limited condition use in the AWS Academy account.
-## Reference
-### Arduino
+> [!Reference]
+> Helpful information for conducting the exercises.
 - Arduino IDE download: https://www.arduino.cc/en/software
+- 
