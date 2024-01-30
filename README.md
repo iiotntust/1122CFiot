@@ -5,7 +5,7 @@ This class has two hands-on exercises: 1. Connect IoT to AWS Cloud. 2. Facial re
 - Hardware: ESP32-2, DHT-11 (Humi-Temp sensor)
 - YouTube demo video: https://www.youtube.com/watch?v=idf-gGXvIu4
 - Project and source code: https://how2electronics.com/connecting-esp32-to-amazon-aws-iot-core-using-mqtt/
-## Exercise 2: Facial recognition 
+## Exercise 2: Facial recognition (Artificial intelligence)
 ### Esprissif ESP-EYE + Amazon FreeRTOS
  - AWS document: https://docs.aws.amazon.com/freertos/latest/userguide/freertos-getting-started-modular.html
  - (Stop update) https://github.com/aws/amazon-freertos/blob/main/vendors/espressif/docs/ESP-EYE_getting_started_with_AFR.md
