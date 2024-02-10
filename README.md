@@ -20,7 +20,9 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
   - DFR0620 ESP-EYE Development board: https://www.dfrobot.com/product-1931.html
   - ESP-EYE v2.1: https://github.com/espressif/esp-who/blob/master/docs/en/get-started/ESP-EYE_Getting_Started_Guide.md
   - Free RTOS (Real-time operating system for microcontrollers):[https://freertos.org/index.html](https://freertos.org/index.html)
-  
+  - ESP-EYE DevKit with camera and mic
+  - ![esp32-esp-eye_inbox_zl](https://github.com/iiotntust/1122CFiot/assets/56021651/42f42532-19b6-4e53-8db9-e9a11a687e6e)
+
 > [!Note]
 > ☁️ AWS Cloud Service information.
 - AWS Academy login: https://www.awsacademy.com/login
