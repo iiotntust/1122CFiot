@@ -10,7 +10,7 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 ### 2019 AWS AI Workshop
 https://github.com/wimade4u/2019CFiot
 
-## :+1:Exercise 2: Facial recognition (Artificial intelligence) @
+## :+1:Exercise 2: Facial recognition (Artificial intelligence) @pending
 - The exercise 2 requires IAM func that AWS Academy Account does not support
 - May try with AWS Free Tier: https://aws.amazon.com/free/
 ### Esprissif ESP-EYE + Amazon FreeRTOS
